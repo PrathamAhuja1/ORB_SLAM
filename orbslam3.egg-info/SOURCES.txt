@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+orbslam3.egg-info/PKG-INFO
+orbslam3.egg-info/SOURCES.txt
+orbslam3.egg-info/dependency_links.txt
+orbslam3.egg-info/not-zip-safe
+orbslam3.egg-info/requires.txt
+orbslam3.egg-info/top_level.txt

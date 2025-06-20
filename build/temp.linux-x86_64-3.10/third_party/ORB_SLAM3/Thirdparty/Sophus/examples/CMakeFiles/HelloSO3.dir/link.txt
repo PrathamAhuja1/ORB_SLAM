@@ -1,0 +1,1 @@
+/usr/bin/c++ -I /usr/lib/python3/dist-packages/numpy/core/include -Wall   -O3 -std=c++11 -Wall -Werror -Wextra -std=c++11 -Wno-deprecated-declarations -ftemplate-backtrace-limit=0 -O3 CMakeFiles/HelloSO3.dir/HelloSO3.cpp.o -o HelloSO3 

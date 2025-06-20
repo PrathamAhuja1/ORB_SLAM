@@ -1,0 +1,18 @@
+%YAML:1.0
+
+Camera.fx: 648.0
+Camera.fy: 648.0
+Camera.cx: 324.0
+Camera.cy: 176.0
+
+Camera.k1: 0.0
+Camera.k2: 0.0
+Camera.p1: 0.0
+Camera.p2: 0.0
+Camera.k3: 0.0
+
+Camera.width: 648
+Camera.height: 352
+
+Camera.fps: 30.0
+Camera.RGB: true
